@@ -1,1 +1,1 @@
-# hackerrank
+# Interview Preparation Kit
